@@ -33,3 +33,6 @@
     - [myProperties.tsx](/app/properties/myProperties.md)
     - [updateCrops.tsx](/app/properties/updateCrops.md)
     - [valveOpenForm.tsx](/app/properties/valveOpenForm.md)
+
+    [index.tsx](/app/index.md)
+    [layout.tsx](/app/layout.md)
