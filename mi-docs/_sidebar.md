@@ -1,4 +1,20 @@
 - [Inicio](/)
+- 📁 (auth)
+
+  - [Layout](/app/(auth)/layout.md)
+  - [completeInfo](/app/(auth)/complete-info.md)
+  - [forgotPassword](/app/(auth)/forgot-password.md)
+  - [login](/app/(auth)/login.md)
+  - [register](/app/(auth)/register.md)
+  - [validation](/app/(auth)/validation.md)
+
+
+- 📁 (tabs)
+
+  - [Layout](/app/(tabs)/layout.md)
+  - [home](/app/(tabs)/home.md)
+  - [notification](/app/(tabs)/notification.md)
+  - [profile](/app/(tabs)/profile.md)
 
 - 📁 App
 
