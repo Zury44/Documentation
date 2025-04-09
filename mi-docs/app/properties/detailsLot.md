@@ -1,6 +1,6 @@
 ### `DetailsLots`
 
-## Componente que muestra información detallada de un lote seleccionado. Permite cambiar entre una vista de cultivo y una vista de dispositivos, e incluye una barra de búsqueda animada para filtrar los dispositivos disponibles.
+Componente que muestra información detallada de un lote seleccionado. Permite cambiar entre una vista de cultivo y una vista de dispositivos, e incluye una barra de búsqueda animada para filtrar los dispositivos disponibles.
 
 #### **Descripción general**
 

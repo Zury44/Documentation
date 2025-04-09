@@ -1,5 +1,3 @@
-# Documentación del Componente `DetailsProperties`
-
 ## Descripción General
 
 `DetailsProperties` es una pantalla que muestra la información detallada de un predio y sus lotes asociados. Permite la visualización de la información general del predio, el uso de una barra de búsqueda para filtrar lotes y la visualización de detalles de un lote mediante un modal.
