@@ -2,16 +2,16 @@
 
 - 📁 Profile
 
-  - [\_layout.tsx](/profile/layoutprofile.md)
-  - [seeProfile.tsx](/profile/see-profile.md)
-  - [updatePassword.tsx](/profile/update-password.md)
-  - [updateProfile.tsx](/profile/update-profile.md)
+  - [\_layout.tsx](/app/profile/layoutprofile.md)
+  - [seeProfile.tsx](/app/profile/see-profile.md)
+  - [updatePassword.tsx](/app/profile/update-password.md)
+  - [updateProfile.tsx](/app/profile/update-profile.md)
 
 - 📁 Properties
 
-  - [\_layout.tsx](/properties/layoutproperties.md)
-  - [detailsLot.tsx](/properties/detailsLot.md)
-  - [detailsProperties.tsx](/properties/detailsProperties.md)
-  - [myProperties.tsx](/properties/myProperties.md)
-  - [updateCrops.tsx](/properties/updateCrops.md)
-  - [valveOpenForm.tsx](/properties/valveOpenForm.md)
+  - [\_layout.tsx](/app/properties/layoutproperties.md)
+  - [detailsLot.tsx](/app/properties/detailsLot.md)
+  - [detailsProperties.tsx](/app/properties/detailsProperties.md)
+  - [myProperties.tsx](/app/properties/myProperties.md)
+  - [updateCrops.tsx](/app/properties/updateCrops.md)
+  - [valveOpenForm.tsx](/app/properties/valveOpenForm.md)
